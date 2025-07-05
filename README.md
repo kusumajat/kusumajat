@@ -38,11 +38,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kusumajat/kusumajat/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kusumajat/kusumajat/output/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kusumajat/kusumajat/output/profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/kusumajat/kusumajat/output/profile-3d-contrib/profile-night-green.svg">
-</picture>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
 
 
 ### Top Contributed Repo
