@@ -39,7 +39,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kusumajat/kusumajat/main/profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 
