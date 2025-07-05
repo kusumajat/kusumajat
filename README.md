@@ -57,6 +57,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kusumajat/kusumajat/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
+</p>
+
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kusumajat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
