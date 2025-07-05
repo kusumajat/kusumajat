@@ -39,7 +39,7 @@
 </picture>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
+  <img src="https://raw.githubusercontent.com/kusumajat/kusumajat/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ### Top Contributed Repo
